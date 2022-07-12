@@ -3,7 +3,7 @@
 from random import Random, random
 
 
-print("Welcome to Rock, Paper and Scissors!")
+print("Welcome to Rock, Paper, Scissors!")
 
 #Prompt user decision
 #move = ["Rock", "Paper", "Scissors"]
@@ -14,7 +14,7 @@ if (x == "ROCK" or x == "Rock" or x =="rock"):
     print("Rock, Paper, Scissors and shoot!!")
     print("Your move: Rock")
     import random
-    move = random.choice(["Rock", "Paper", "Scissors"]) 
+    move = random.choice(["Rock", "Paper", "Scissors"])
     print ("Computer's move: " + move)
     print("---------------------------------")
     if (move == "Rock"):
@@ -60,4 +60,6 @@ elif (x == "GUNHAND" or x == "Gunhand" or x =="gunhand"):
 else:
     print("Whoops, that's not a valid move. Please try again!")
     quit()
-print("---------------------------------")
+
+print("Thank you for playing! See you again!")
+

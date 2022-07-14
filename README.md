@@ -3,9 +3,9 @@
 This is a simple Python program for playing Rock, Paper, Scissors using command-line.
 
 ## Prerequisites
-Anaconda 3.7
-Python 3.7
-Pip
+ + Anaconda 3.7
+ + Python 3.7
+ + Pip
 
 ## Repo Setup
 Make a copy of this repo as needed. Clone a copy of the repo onto your local computer using Github Desktop or other equivalent software. Navigate there from the command-line. If you are using Github Desktop, cloned repo might be nested in the following directory.

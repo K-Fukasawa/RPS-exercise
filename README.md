@@ -63,18 +63,6 @@ Scissors
 
 The program will alternatively accept all-lower case or all-upper case, but will reject mixed cases (eg. rOcK) or other invalid words. If successful, you will see your move, computer's move and the result displayed.
 
-////////////////////////////////////////////////////////////////
-Welcome to Rock, Paper, Scissors!
-Choose your move from either Rock, Paper or Scissors: gunhand
----------------------------------
-Rock, Paper, Scissors and shoot!!
-Your move: Gunhand
-Computer's move: Paper
----------------------------------
-You win!
-Thank you for playing! See you again!
-////////////////////////////////////////////////////////////////
-
 ## Invalid moves
 If you execute an invalid move, the game will display a message telling you that the move is invalid.
 To start a new game, repeat the earlier step by entering:
